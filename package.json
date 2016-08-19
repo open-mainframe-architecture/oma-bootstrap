@@ -1,0 +1,27 @@
+{
+  "name": "oma-bootstrap",
+  "description": "Bootstrap archives and bundles of open mainframe.",
+  "main": "index",
+  "version": "10.0.2",
+  "dependencies": {
+    "oma-analyze": "^10.0.2",
+    "oma-archive": "^10.0.2",
+    "oma-bundle": "^10.0.2",
+    "oma-constants": "^10.0.1",
+    "oma-util": "^10.0.2"
+  },
+  "keywords": [
+    "oma",
+    "open mainframe architecture",
+    "bootstrap mainframe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-mainframe-architecture/oma-bootstrap.git"
+  },
+  "author": "open.mainframe@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-mainframe-architecture/oma-bootstrap/issues"
+  }
+}
